@@ -31,7 +31,7 @@ This application simplifies document management by allowing users to merge multi
 **Step 1: Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Python-PDF-Merger.git
+git clone https://github.com/shivambaliyan-sudo/Python-PDF-Merger.git
 ```
 
 **Step 2: Navigate to the project folder**
@@ -109,6 +109,13 @@ Through this project, I explored:
 **Shivam Baliyan**
 
 Data Analyst | Python & Automation Enthusiast | Exploring AI & Machine Learning
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/shivambaliyan-sudo
+- LinkedIn: https://www.linkedin.com/in/shivambaliyan7455
+
+Always open to learning, collaboration and new opportunities!
 
 ## ⭐ Support
 
